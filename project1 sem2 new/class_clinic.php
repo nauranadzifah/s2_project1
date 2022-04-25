@@ -76,8 +76,16 @@ require_once 'class_pasien.php';
 <table widht="100%" border="1">
     <thead>
         <tr>
-        <th>No</th><th>Tanggal Periksa</th><th>Kode</th><th>Nama Pasien</th><th>Gender</th><th>Berat Badan</th><th>Tinggi Badan</th><th>Hasil Bmi</th><th>Status BMI</th>
-    </tr>
+            <th>No</th>
+            <th>Tanggal Periksa</th>
+            <th>Kode</th>
+            <th>Nama Pasien</th>
+            <th>Gender</th>
+            <th>Berat Badan</th>
+            <th>Tinggi Badan</th>
+            <th>Hasil Bmi</th>
+            <th>Status BMI</th>
+        </tr>
     </thead>
     <tbody>
         <?php
